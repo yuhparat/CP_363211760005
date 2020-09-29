@@ -12,7 +12,7 @@ public class BasicArray2D {
         //display data in array 2D
         displayArray(number);
         //find total value in
-        findTototalValue(number);
+
         //find max value
         //find max value
 

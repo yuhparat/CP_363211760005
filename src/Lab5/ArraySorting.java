@@ -5,7 +5,7 @@ public class ArraySorting {
 
         Integer number[]= {12,54,87,32,69};
 
-        System.out.println(ArraySorting);
+
 
 
         }

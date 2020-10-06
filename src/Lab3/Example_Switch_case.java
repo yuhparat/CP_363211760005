@@ -23,7 +23,8 @@ public class Example_Switch_case {
 
             }
             System.out.println("Good Bye");
-        }//main
+            //display data
 
+        }//main
 
     }//class

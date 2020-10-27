@@ -1,6 +1,6 @@
 package Exersice;
 
-public class Lab_8_1 {
+public class Exercise_Lab8_1 {
 
     public static void main(String[] args) {
         int[] number = {10, 20, 30, 40, 50};
